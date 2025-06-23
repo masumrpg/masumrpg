@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masumrpg&label=Profile%20views&color=0e75b6&style=flat" alt="masumrpg" /> </p>
 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 Become a **Mobile Engineer**
 
 - 👨‍💻 All of my projects are available at [masum.cloud](https://masum.cloud)
 
