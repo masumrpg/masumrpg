@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif)](https://masum.cloud)
 <h1 align="center">Hi 👋, I'm Ma'sum</h1>
-<h3 align="center">A passionate Mobile React Native from Indonesia</h3>
+<h3 align="center">A passionate Mobile React Native and Fullstack Developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masumrpg&label=Profile%20views&color=0e75b6&style=flat" alt="masumrpg" /> </p>
