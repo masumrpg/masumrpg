@@ -18,8 +18,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masumrpg&show_icons=true&locale=en&layout=compact" alt="masumrpg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masumrpg&show_icons=true&locale=en" alt="masumrpg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masumrpg&" alt="masumrpg" /></p>
